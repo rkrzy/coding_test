@@ -139,6 +139,42 @@ build CMakeFiles/_.dir/Silver/Silver5/9656_StoneGame_DP.cpp.o: CXX_COMPILER____D
   OBJECT_DIR = CMakeFiles/_.dir
   OBJECT_FILE_DIR = CMakeFiles/_.dir/Silver/Silver5
 
+build CMakeFiles/_.dir/Bronze/Bronze2/13300_room_math.cpp.o: CXX_COMPILER____Debug /Users/imjunsik/Desktop/코딩테스트$ 공부/Bronze/Bronze2/13300_room_math.cpp || cmake_object_order_depends_target__
+  DEP_FILE = CMakeFiles/_.dir/Bronze/Bronze2/13300_room_math.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/_.dir
+  OBJECT_FILE_DIR = CMakeFiles/_.dir/Bronze/Bronze2
+
+build CMakeFiles/_.dir/Bronze/Bronze2/2355_sigma_math.cpp.o: CXX_COMPILER____Debug /Users/imjunsik/Desktop/코딩테스트$ 공부/Bronze/Bronze2/2355_sigma_math.cpp || cmake_object_order_depends_target__
+  DEP_FILE = CMakeFiles/_.dir/Bronze/Bronze2/2355_sigma_math.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/_.dir
+  OBJECT_FILE_DIR = CMakeFiles/_.dir/Bronze/Bronze2
+
+build CMakeFiles/_.dir/Bronze/Bronze2/1568_bird_math.cpp.o: CXX_COMPILER____Debug /Users/imjunsik/Desktop/코딩테스트$ 공부/Bronze/Bronze2/1568_bird_math.cpp || cmake_object_order_depends_target__
+  DEP_FILE = CMakeFiles/_.dir/Bronze/Bronze2/1568_bird_math.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/_.dir
+  OBJECT_FILE_DIR = CMakeFiles/_.dir/Bronze/Bronze2
+
+build CMakeFiles/_.dir/Bronze/Bronze2/2592_representative_math.cpp.o: CXX_COMPILER____Debug /Users/imjunsik/Desktop/코딩테스트$ 공부/Bronze/Bronze2/2592_representative_math.cpp || cmake_object_order_depends_target__
+  DEP_FILE = CMakeFiles/_.dir/Bronze/Bronze2/2592_representative_math.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/_.dir
+  OBJECT_FILE_DIR = CMakeFiles/_.dir/Bronze/Bronze2
+
+build CMakeFiles/_.dir/Bronze/Bronze2/5355_Mars_math.cpp.o: CXX_COMPILER____Debug /Users/imjunsik/Desktop/코딩테스트$ 공부/Bronze/Bronze2/5355_Mars_math.cpp || cmake_object_order_depends_target__
+  DEP_FILE = CMakeFiles/_.dir/Bronze/Bronze2/5355_Mars_math.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/_.dir
+  OBJECT_FILE_DIR = CMakeFiles/_.dir/Bronze/Bronze2
+
+build CMakeFiles/_.dir/Silver/Silver5/9625_BABBA_DP.cpp.o: CXX_COMPILER____Debug /Users/imjunsik/Desktop/코딩테스트$ 공부/Silver/Silver5/9625_BABBA_DP.cpp || cmake_object_order_depends_target__
+  DEP_FILE = CMakeFiles/_.dir/Silver/Silver5/9625_BABBA_DP.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/_.dir
+  OBJECT_FILE_DIR = CMakeFiles/_.dir/Silver/Silver5
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target _
@@ -147,7 +183,7 @@ build CMakeFiles/_.dir/Silver/Silver5/9656_StoneGame_DP.cpp.o: CXX_COMPILER____D
 #############################################
 # Link the executable _
 
-build _: CXX_EXECUTABLE_LINKER____Debug CMakeFiles/_.dir/main.cpp.o CMakeFiles/_.dir/Silver/Silver5/Divide_Word.cpp.o CMakeFiles/_.dir/Silver/Silver5/number_game.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/2163_chocolate.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/4796_camping.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/2755_average_score.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/17247_taxi_distance.cpp.o CMakeFiles/_.dir/Silver/Silver5/1789_NumTotal.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/1526_bigsu.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/13458_director.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/1550_16.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/1977_perfect_squ.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/2864_56diff.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/10996_star21.cpp.o CMakeFiles/_.dir/Silver/Silver5/9656_StoneGame_DP.cpp.o
+build _: CXX_EXECUTABLE_LINKER____Debug CMakeFiles/_.dir/main.cpp.o CMakeFiles/_.dir/Silver/Silver5/Divide_Word.cpp.o CMakeFiles/_.dir/Silver/Silver5/number_game.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/2163_chocolate.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/4796_camping.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/2755_average_score.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/17247_taxi_distance.cpp.o CMakeFiles/_.dir/Silver/Silver5/1789_NumTotal.cpp.o CMakeFiles/_.dir/Bronze/Bronze1/1526_bigsu.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/13458_director.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/1550_16.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/1977_perfect_squ.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/2864_56diff.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/10996_star21.cpp.o CMakeFiles/_.dir/Silver/Silver5/9656_StoneGame_DP.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/13300_room_math.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/2355_sigma_math.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/1568_bird_math.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/2592_representative_math.cpp.o CMakeFiles/_.dir/Bronze/Bronze2/5355_Mars_math.cpp.o CMakeFiles/_.dir/Silver/Silver5/9625_BABBA_DP.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk
   OBJECT_DIR = CMakeFiles/_.dir
   POST_BUILD = :
